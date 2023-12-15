@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumbnail-image {
+  height: 45px;
+  width: 45px;
+  border-radius: 11px;
+  margin-right: 12px;
+}
+
+.active-image {
+  border: 2px solid #000000;
+}

@@ -1,0 +1,33 @@
+/* Write your code here. */
+.app-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 55px;
+}
+
+.image {
+  width: 80%;
+  border-radius: 13px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.photography-by {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #64748b;
+}
+
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
